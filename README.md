@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/flutter_bugly.svg)](https://pub.dartlang.org/packages/flutter_bugly)
 [![Gitter](https://badges.gitter.im/flutter_developer/community.svg)](https://gitter.im/flutter_developer/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-腾讯Bugly flutter应用更新插件
+腾讯Bugly flutter应用更新插件(抽离FileProvider避免冲突)
 
 ## 支持Android/iOS 运营统计、原生异常上报、flutter异常上报、应用更新
 
